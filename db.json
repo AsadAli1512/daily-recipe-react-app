@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Tea",
+      "prepare": "Milk, Sugar, Tea leaves, Water"
+    },
+    {
+      "id": "c5c5",
+      "name": "Fri Egg",
+      "prepare": "Oil, Egg and Pan"
+    },
+    {
+      "id": "066f",
+      "name": "Biryani",
+      "prepare": "Chicken, Rice, Masalas"
+    }
+  ]
+}
